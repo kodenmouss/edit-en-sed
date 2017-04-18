@@ -5,5 +5,5 @@ dans un premier temps je pense que cela peut etre utiliser pour ajouter un petit
 
 du genre :
 title => h2
-text => <p> </p>
+text => p /p
 image ==> code image avec transfert d'images vers le dossier et eventuellement renommé
